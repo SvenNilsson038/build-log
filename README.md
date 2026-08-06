@@ -3,6 +3,7 @@ Engineering notes — things I keep re-explaining, written down once.
 
 ## Further reading
 
+- [Enqueue background jobs from an API request: Postgres queue, worker, idempotency key](posts/enqueue-background-jobs-from-an-api-request-postgres-queue-worker-idempo.md)
 - [LLM Structured Data Extraction: 429 Backoff, Queues, Batch APIs, and Regions](posts/llm-structured-data-extraction-429-backoff-queues-batch-apis-and-regions.md)
 - [Choosing an Admin Analytics Backend: Metrics, Logs, or Durable Events?](posts/choosing-an-admin-analytics-backend-metrics-logs-or-durable-events.md)
 - [Picking a Low-Cost Chatbot LLM API: An SRE Runbook for GPT, Claude, and Gemini](posts/picking-a-low-cost-chatbot-llm-api-an-sre-runbook-for-gpt-claude-and-gem.md)
